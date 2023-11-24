@@ -22,9 +22,6 @@ numpy
 torch
 torchvision
 ```
-## Architecture
-
-
 
 ## How to use 
 
